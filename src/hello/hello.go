@@ -1,5 +1,5 @@
-package main
+package hello
 
-func main() {
+func SayHello() {
 	println("Hello World")
 }
