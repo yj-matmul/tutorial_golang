@@ -1,6 +1,6 @@
 package main
 
-import "src/hello"
+import "example.com/hello"
 
 func main() {
 	hello.SayHello()
